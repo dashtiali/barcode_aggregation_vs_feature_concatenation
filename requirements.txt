@@ -1,0 +1,11 @@
+gudhi==3.10.1
+numpy==2.2.4
+pandas==2.2.3
+Pillow==11.1.0
+pycaret==3.3.2
+ripser==0.6.10
+scikit_learn==1.4.2
+scipy==1.15.2
+shutup==0.2.0
+tqdm==4.66.6
+vectorization==1.0
