@@ -17,11 +17,9 @@ pip install -r requirements.txt
 If you found this repository useful and would like to cite the paper associated with this project, please use the following citation:
 
 ```bibtex
-@article{,
-  author = {},
-  title = {Comparing the Effects of Persistence Barcodes Aggregation and Feature Concatenation on Medical Imaging},
+@article{ali2025comparing,
+  title={Comparing the Effects of Persistence Barcodes Aggregation and Feature Concatenation on Medical Imaging},
   author={Ali, Dashti A and Do, Richard KG and Jarnagin, William R and Asaad, Aras T and Simpson, Amber L},
   journal={arXiv preprint arXiv:2505.23637},
-  year={2025},
-  doi = {https://doi.org/10.48550/arXiv.2505.23637}
+  year={2025}
 }
