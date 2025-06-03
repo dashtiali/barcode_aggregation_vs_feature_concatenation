@@ -19,11 +19,9 @@ If you found this repository useful and would like to cite the paper associated 
 ```bibtex
 @article{,
   author = {},
-  title = {Comparing the Effects of Persistent Barcodes Aggregation and Feature Concatenation on Medical Image Analysis},
-  journal = {},
-  year = {},
-  volume = {},
-  number = {},
-  pages = {},
-  doi = {}
+  title = {Comparing the Effects of Persistence Barcodes Aggregation and Feature Concatenation on Medical Imaging},
+  author={Ali, Dashti A and Do, Richard KG and Jarnagin, William R and Asaad, Aras T and Simpson, Amber L},
+  journal={arXiv preprint arXiv:2505.23637},
+  year={2025},
+  doi = {https://doi.org/10.48550/arXiv.2505.23637}
 }
